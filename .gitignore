@@ -1,0 +1,4 @@
+credentials.yml
+log/
+data.*
+env/
